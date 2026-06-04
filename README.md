@@ -1,4 +1,4 @@
-# STELLAR — Spectral Type Estimation via Language Learning and Astronomical Reasoning
+# STELLAR | Spectral Type Estimation via Language Learning and Astronomical Reasoning
 
 > A hybrid stellar classifier that combines deterministic astrophysical rules (Hard Computing) with a fine-tuned LLM (AstroSage-8B) to assign MK spectral types and generate natural-language stellar descriptions from Gaia DR3 data.
 
